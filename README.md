@@ -1,3 +1,7 @@
+> [!WARNING]
+> **Archived and outdated.** This repository is no longer maintained and its protocol implementation has known bugs (wrong notification handle, packet-count flow control, 1-byte screen flip).
+> The project continues at **https://github.com/brenovit/spotled**.
+
 # SPOTLED Python Library
 
 This allows you to control bluetooth led name badges which use the SPOTLED app. You can buy them here:
